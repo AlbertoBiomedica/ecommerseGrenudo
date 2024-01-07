@@ -1,0 +1,14 @@
+i.icon-magnifier {
+    color: #fff !important;
+}
+
+#input_search{
+    background-color: #127c5f !important;
+    color: white;
+}
+
+.header .ps-form--header-search
+{
+  display: block;
+  color: #fff;
+}
